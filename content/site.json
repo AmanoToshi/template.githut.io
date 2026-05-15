@@ -1,0 +1,16 @@
+{
+  "title": "AMANOTOSHI",
+  "footerText": "天野歳",
+  "navigation": [
+    { "key": "home", "label": "Home", "href": "./index.html" },
+    { "key": "gallery", "label": "Gallery", "href": "./gallery.html" },
+    { "key": "blog", "label": "Blog", "href": "./blog.html" },
+    { "key": "links", "label": "Links", "href": "./links.html" }
+  ],
+  "intro": {
+    "name": "天野歳",
+    "tagline": "Illustrator",
+    "bio": "イラストレーター✨ 中国人です✨日本語(勉強中)&English ok✨作品を見てくれたありがとう😊",
+    "currentFocus": "你好，我是岁岁！感谢你来看我的画！家里的黑咪叫kou酱，蓝猫叫马路（因为是路边救起的）欢迎云rua!"
+  }
+}

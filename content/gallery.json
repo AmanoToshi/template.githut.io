@@ -1,0 +1,41 @@
+{
+  "defaultCategory": "fanart",
+  "categories": [
+    {
+      "key": "fanart",
+      "label": "Fanart",
+      "items": [
+        {
+          "title": "10p发售贺图",
+          "medium": "csp",
+          "image": "data/ys-series/10p-release.jpg",
+          "shortLabel": "10p发售贺图"
+        },
+        {
+          "title": "卡嘉",
+          "medium": "csp",
+          "image": "data/ys-series/kajya.jpg",
+          "shortLabel": "卡嘉"
+        },
+        {
+          "title": "亚特鲁",
+          "medium": "csp",
+          "image": "data/ys-series/adol.jpg",
+          "shortLabel": "亚特鲁"
+        }
+      ]
+    },
+    {
+      "key": "original",
+      "label": "Original",
+      "items": [
+        {
+          "title": "toshichan",
+          "medium": "csp",
+          "image": "data/original/toshichan.jpg",
+          "shortLabel": "toshichan"
+        }
+      ]
+    }
+  ]
+}
